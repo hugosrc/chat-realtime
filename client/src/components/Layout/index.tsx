@@ -19,7 +19,7 @@ interface Message {
 }
 
 const Layout: React.FC = () => {
-  let socket = useMemo(() => socketio('http://192.168.1.5:3333'),[])
+  let socket = useMemo(() => socketio('http://localhost:3333'),[])
 
   const [modalVisible, setModalVisible] = useState(true)
   const [username, setUsername] = useState('')
