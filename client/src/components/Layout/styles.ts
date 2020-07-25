@@ -43,7 +43,7 @@ export const Messages = styled.div`
   }
 `
 
-export const InputContainer = styled.div`
+export const InputContainer = styled.form`
   height: 68px;
 
   > input {
@@ -54,5 +54,28 @@ export const InputContainer = styled.div`
     background: var(--white);
 
     box-shadow: 0 2px 5px 0px rgba(0, 0, 0, 0.2);
+  }
+`
+
+export const Modal = styled.form`
+  display: flex;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 2;
+
+  height: 100vh;
+  width: 100vw;
+  background: #000;
+  opacity: 80%;
+
+  > input {
+    background: var(--white);
+    height: 60px;
+    margin: 80px auto;
+    width: 240px;
+    padding: 0 16px;
+    border-radius: 8px;
   }
 `
