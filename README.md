@@ -4,21 +4,7 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hugosrc/chat-realtime">
-
-  <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-hugo%20souza-blue">
-  </a>
-  
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hugosrc/chat-realtime">
-  
-  <a href="https://github.com/hugosrc/chat-realtime/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hugosrc/chat-realtime">
-  </a>
-  
-  <a href="https://github.com/hugosrc/chat-realtime/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/hugosrc/chat-realtime">
-  </a>
-  
+ 
   <img alt="GitHub" src="https://img.shields.io/github/license/hugosrc/chat-realtime">
 </p>
 
